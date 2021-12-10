@@ -1,0 +1,16 @@
+.container{
+    text-align: center;
+    border: 3px solid purple;
+   }
+
+.containerA{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 250px;
+    padding-left: 250px;
+}
+
+.card{
+    padding: 20px;
+}
